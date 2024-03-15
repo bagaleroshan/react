@@ -1,0 +1,46 @@
+day 1
+react variable can store tag
+react function can return tag
+any thing that is return are printed on browser (dom) 
+use {} to call variable inside tag
+write all code inside one wrapper i.e return only on tag
+
+
+day 2
+page 
+   add only one h1 tag in web page.
+
+
+image
+    always place image in public folder.   
+    . means public folder
+
+
+cases
+    fullName=>camel case (js)   
+    FullName=>pascal case (python)
+    full-name=>kebab case (css,url,package name)
+    FULL_NAME=>UPPER CASE(.env)
+    full_name=>snake case
+
+css 
+   inline
+   external    
+       it has three process
+       define css
+       always import in index.js
+       use it
+
+day3
+component (custom tag)
+   it is a function whose first letter is capital
+
+
+props 
+   passing value in component is called props      
+
+
+   day4
+ inbuilt html props such as style, href, src, className, does not support in custom tag(component)   
+
+ we can not use if, else ,for,while, do-while loop inside tag. 
